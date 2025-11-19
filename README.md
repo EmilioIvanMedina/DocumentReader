@@ -1,2 +1,4 @@
 # DocumentReader
-OCR Tesseract implementation for reading Files and return text in a different kind of file
+OCR Tesseract implementation for reading Files and return text in a different kind of file.
+
+This is a .NET solution.
